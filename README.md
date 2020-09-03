@@ -1,5 +1,5 @@
 # TestSecurityDevOps
-Test、Network Security、Dev、Ops
+Dev、Test、Ops、Network Security
 
 # Test
 Yang Liu-
