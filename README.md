@@ -1,5 +1,5 @@
 # DevTestOpsSecurity
-Dev、Test、Ops、Security
+Dev、Test、Rec、Ops、Security
 
 # Dev
 
@@ -20,7 +20,19 @@ Nanyang Technological University-
 
 # Rec
 
+Conference:
 
+[Recommendation System]ACM Conference on Recommender Systems (RecSys)
+
+Resource:
+
+[Recommendation System]https://github.com/daicoolb/RecommenderSystem-Paper
+
+[Recommendation System]https://github.com/imsheridan/DeepRec
+
+[Computational Advertising]https://github.com/wzhe06/Ad-papers
+
+[Computational Advertising]https://github.com/shenweichen/DeepCTR
 
 # Ops
 
@@ -36,3 +48,9 @@ Nankai University-
 [HomePage-http://nkcs.iops.ai/shenglinzhang/]
 
 # Security
+
+Resource:
+
+[Awesome Machine Learning for Cyber Security]https://github.com/jivoi/awesome-ml-for-cybersecurity
+
+[machine_learning_security]https://github.com/13o-bbr-bbq/machine_learning_security
