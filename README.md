@@ -14,7 +14,7 @@ Paper:
 
 [TestCase]A. Panichella, and et al. Automated test case generation as a many-objective optimisation problem with dynamic selection of the targets. IEEE Transactions on Software Engineering, 2018, 44(2):122-158.
 
-[Ads]K. Liu, and et al. IntelligentdesignofmultimediacontentinAlibaba. Front Inform Technol Electron Eng, 2019, 20(12):1657-1664.
+[Ads]K. Liu, and et al. Intelligent design of multimedia content in Alibaba. Front Inform Technol Electron Eng, 2019, 20(12):1657-1664.
 
 [Ads]W. You, and et al. Automatic synthesis of advertising images according to a specified style. Front Inform Technol Electron Eng, 2020.
 
@@ -30,6 +30,8 @@ Nanyang Technological University-
 Paper:
 
 [Political] M. Silva, and et al. Facebook Ads monitor: an independent auditing system for political Ads on Facebook. WWW'20, 224-234.
+
+[Manipulation]X. Zhou, and et al. BASNet: Boundary-Aware Salient Object Detection. CVPR, 2019.
 
 # Rec
 
