@@ -33,6 +33,8 @@ Paper:
 
 [Manipulation]X. Zhou, and et al. BASNet: Boundary-Aware Salient Object Detection. CVPR, 2019.
 
+[AspectRatio]R. Sakurai, and et al. Restoring Aspect Ratio Distortion of Natural Images With Convolutional Neural Network. IEEE Transactions on Industrial Informatics, 2018, 14(8):563-571.
+
 # Rec
 
 Conference:
