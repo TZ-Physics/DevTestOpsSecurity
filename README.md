@@ -31,7 +31,7 @@ Paper:
 
 [Political] M. Silva, and et al. Facebook Ads monitor: an independent auditing system for political Ads on Facebook. WWW'20, 224-234.
 
-[Manipulation]X. Zhou, and et al. BASNet: Boundary-Aware Salient Object Detection. CVPR, 2019.
+[Manipulation]P. Zhou, and et al. Learning Rich Features for Image Manipulation Detection. CVPR, 2018.
 
 [AspectRatio]R. Sakurai, and et al. Restoring Aspect Ratio Distortion of Natural Images With Convolutional Neural Network. IEEE Transactions on Industrial Informatics, 2018, 14(8):563-571.
 
