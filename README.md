@@ -3,14 +3,14 @@ Dev、Test、Rec、Ops、Security
 
 ## Dev & Gene
 
-Group:
+### Group
 
 Ge Li-
 Peking University-
 [HomePage:https://www.ntu.edu.sg/home/yangliu/]-
 [Google Scholor:https://xueshu.lanfanshu.cn/citations?user=PPqcVRwAAAAJ&hl=zh-CN&oi=sra]
 
-Paper:
+### Paper
 
 [Software][TestCase]A. Panichella, and et al. Automated test case generation as a many-objective optimisation problem with dynamic selection of the targets. IEEE Transactions on Software Engineering, 2018, 44(2):122-158.
 
@@ -20,14 +20,14 @@ Paper:
 
 ## Test & Audit
 
-Group:
+### Group
 
 Yang Liu-
 Nanyang Technological University-
 [HomePage:https://www.ntu.edu.sg/home/yangliu/]-
 [Google Scholor:https://scholar.google.com/citations?user=_Pvgwd0AAAAJ&hl=en]
 
-Paper:
+### Paper
 
 [Software][AI4Test][AndroidApp]Y. Li, and et al. Humanoid A Deep Learning-based Approach to Automated Black-box Android App Testing. ASE, 2020.
 
@@ -44,11 +44,11 @@ Paper:
 
 ## Rec
 
-Conference:
+### Conference
 
 [Recommendation System]ACM Conference on Recommender Systems (RecSys)
 
-Resource:
+### Resource
 
 [Recommendation System]https://github.com/daicoolb/RecommenderSystem-Paper
 
@@ -60,7 +60,7 @@ Resource:
 
 ## Ops
 
-Group:
+### Group
 
 Dan Pei-
 Tsinghua University-
@@ -73,7 +73,7 @@ Nankai University-
 
 ## Security
 
-Resource:
+### Resource
 
 [Awesome Machine Learning for Cyber Security]https://github.com/jivoi/awesome-ml-for-cybersecurity
 
