@@ -27,6 +27,20 @@ Nanyang Technological University-
 [HomePage:https://www.ntu.edu.sg/home/yangliu/]-
 [Google Scholor:https://scholar.google.com/citations?user=_Pvgwd0AAAAJ&hl=en]
 
+## Quality Assessment
+
+[Image][Saliency Prediction][Paper]X. Zhou, and et al. BASNet: Boundary-Aware Salient Object Detection. CVPR, 2019.
+[https://github.com/NathanUA/BASNet]
+
+[Image][Saliency Prediction][Paper]X. Qin, and et al. U^2-Net Going Deeper with Nested U-Structure for Salient Object Detection. Pattern Recognition, 2020, 106, 104404.
+[https://github.com/NathanUA/U-2-Net]
+
+## Anomaly Detection
+
+[Review][Paper]R. Chalapathy, and et al. Deep learning for anomaly detection: A survey. arXiv:1901.03407, 2019.
+
+[VideoSurveillance][Paper]J. Chen, and et al. Distributed Deep Learning Model for Intelligent Video Surveillance Systems with Edge Computing. IEEE Transactions on Industrial Informatics, 2019.
+
 ### Paper
 
 [Software][AI4Test][AndroidApp]Y. Li, and et al. Humanoid A Deep Learning-based Approach to Automated Black-box Android App Testing. ASE, 2020.
