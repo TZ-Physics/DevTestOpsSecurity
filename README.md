@@ -4,6 +4,6 @@
 
 Gen、Audit、Rec、Monitor
 
-## Software AI
+## Software Eco
 
 Dev、Test、Ops、Security
