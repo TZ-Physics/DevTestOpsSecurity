@@ -1,0 +1,48 @@
+# Sofware AI
+
+## Dev
+
+### Group
+
+Ge Li-
+Peking University-
+[HomePage:https://www.ntu.edu.sg/home/yangliu/]-
+[Google Scholor:https://xueshu.lanfanshu.cn/citations?user=PPqcVRwAAAAJ&hl=zh-CN&oi=sra]
+
+### Paper
+
+[TestCase]A. Panichella, and et al. Automated test case generation as a many-objective optimisation problem with dynamic selection of the targets. IEEE Transactions on Software Engineering, 2018, 44(2):122-158.
+
+## Test
+
+### Group
+
+Yang Liu-
+Nanyang Technological University-
+[HomePage:https://www.ntu.edu.sg/home/yangliu/]-
+[Google Scholor:https://scholar.google.com/citations?user=_Pvgwd0AAAAJ&hl=en]
+
+### Paper
+
+[AndroidApp]Y. Li, and et al. Humanoid A Deep Learning-based Approach to Automated Black-box Android App Testing. ASE, 2020.
+
+## Ops
+
+### Group
+
+Dan Pei-
+Tsinghua University-
+[Google Scholor:https://xueshu.lanfanshu.cn/citations?user=i_zA1VsAAAAJ&hl=zh-CN&oi=ao]
+
+Shenglin Zhang-
+Nankai University-
+[HomePage:http://cs.nankai.edu.cn/info/1102/2467.htm]-
+[HomePage-http://nkcs.iops.ai/shenglinzhang/]
+
+## Security
+
+### Resource
+
+[Awesome Machine Learning for Cyber Security]https://github.com/jivoi/awesome-ml-for-cybersecurity
+
+[machine_learning_security]https://github.com/13o-bbr-bbq/machine_learning_security
