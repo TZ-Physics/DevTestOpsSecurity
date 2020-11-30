@@ -1,7 +1,7 @@
 # DevTestOpsSecurity
-Dev、Test、Rec、Ops、Security
+Dev、Gen、Test、Audit、Ops、Rec、Security、Monitor
 
-## Dev & Gene
+## Dev & Gen
 
 ### Group
 
@@ -14,9 +14,9 @@ Peking University-
 
 [Software][TestCase]A. Panichella, and et al. Automated test case generation as a many-objective optimisation problem with dynamic selection of the targets. IEEE Transactions on Software Engineering, 2018, 44(2):122-158.
 
-[Ads]K. Liu, and et al. Intelligent design of multimedia content in Alibaba. Front Inform Technol Electron Eng, 2019, 20(12):1657-1664.
+[Content]K. Liu, and et al. Intelligent design of multimedia content in Alibaba. Front Inform Technol Electron Eng, 2019, 20(12):1657-1664.
 
-[Ads]W. You, and et al. Automatic synthesis of advertising images according to a specified style. Front Inform Technol Electron Eng, 2020.
+[Content]W. You, and et al. Automatic synthesis of advertising images according to a specified style. Front Inform Technol Electron Eng, 2020.
 
 ## Test & Audit
 
@@ -39,22 +39,20 @@ Nanyang Technological University-
 
 [Review][Paper]R. Chalapathy, and et al. Deep learning for anomaly detection: A survey. arXiv:1901.03407, 2019.
 
-[VideoSurveillance][Paper]J. Chen, and et al. Distributed Deep Learning Model for Intelligent Video Surveillance Systems with Edge Computing. IEEE Transactions on Industrial Informatics, 2019.
-
 ### Paper
 
 [Software][AI4Test][AndroidApp]Y. Li, and et al. Humanoid A Deep Learning-based Approach to Automated Black-box Android App Testing. ASE, 2020.
 
-[Ads][NSFW]M. Mohamed. Applying deep learning to classify pornographic images and videos. arXiv:1511.08899, 2015.
-
-[Ads][Political]M. Silva, and et al. Facebook Ads monitor: an independent auditing system for political Ads on Facebook. WWW'20, 224-234.
-
-[Ads][credentials][Manipulation]P. Zhou, and et al. Learning Rich Features for Image Manipulation Detection. CVPR, 2018.
-
-[Ads][Anomaly][AspectRatio]R. Sakurai, and et al. Restoring Aspect Ratio Distortion of Natural Images With Convolutional Neural Network. IEEE Transactions on Industrial Informatics, 2018, 14(8):563-571.
-[https://github.com/ronekko/aspect_ratio_restorer]
-
 [Software][Test4AI][Review]J. Zhang, and et al. Machine Learning Testing: Survey, Landscapes and Horizons. IEEE Transactions on Software Engineering, 2020.
+
+[Content][NSFW]M. Mohamed. Applying deep learning to classify pornographic images and videos. arXiv:1511.08899, 2015.
+
+[Content][Political]M. Silva, and et al. Facebook Ads monitor: an independent auditing system for political Ads on Facebook. WWW'20, 224-234.
+
+[Content][credentials][Manipulation]P. Zhou, and et al. Learning Rich Features for Image Manipulation Detection. CVPR, 2018.
+
+[Content][Anomaly][AspectRatio]R. Sakurai, and et al. Restoring Aspect Ratio Distortion of Natural Images With Convolutional Neural Network. IEEE Transactions on Industrial Informatics, 2018, 14(8):563-571.
+[https://github.com/ronekko/aspect_ratio_restorer]
 
 ## Rec
 
