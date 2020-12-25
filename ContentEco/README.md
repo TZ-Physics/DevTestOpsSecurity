@@ -1,6 +1,6 @@
 # Content Eco
 
-# Gen
+## Gen
 
 ### Paper
 
