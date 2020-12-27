@@ -12,14 +12,16 @@
 
 ### Paper
 
+[NSFW]https://github.com/yahoo/open_nsfw
+
 [NSFW]M. Mohamed. Applying deep learning to classify pornographic images and videos. arXiv:1511.08899, 2015.
 
 [Political]M. Silva, and et al. Facebook Ads monitor: an independent auditing system for political Ads on Facebook. WWW'20, 224-234.
 
 [Credentials][Manipulation]P. Zhou, and et al. Learning Rich Features for Image Manipulation Detection. CVPR, 2018.
 
-[Anomaly][AspectRatio]R. Sakurai, and et al. Restoring Aspect Ratio Distortion of Natural Images With Convolutional Neural Network. IEEE Transactions on Industrial Informatics, 2018, 14(8):563-571.
-[https://github.com/ronekko/aspect_ratio_restorer]
+[Credentials][Manipulation]Constrained R-CNN： A general image manipulation detection model. ICME, 2020.
+[https://github.com/HuizhouLi/Constrained-R-CNN]
 
 [Quality Assessment][Saliency Prediction]X. Zhou, and et al. BASNet: Boundary-Aware Salient Object Detection. CVPR, 2019.
 [https://github.com/NathanUA/BASNet]
@@ -28,6 +30,9 @@
 [https://github.com/NathanUA/U-2-Net]
 
 [Anomaly Detection][Review]R. Chalapathy, and et al. Deep learning for anomaly detection: A survey. arXiv:1901.03407, 2019.
+
+[Anomaly][AspectRatio]R. Sakurai, and et al. Restoring Aspect Ratio Distortion of Natural Images With Convolutional Neural Network. IEEE Transactions on Industrial Informatics, 2018, 14(8):563-571.
+[https://github.com/ronekko/aspect_ratio_restorer]
 
 ## Rec
 

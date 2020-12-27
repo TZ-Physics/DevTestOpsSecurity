@@ -39,6 +39,11 @@ Nankai University-
 [HomePage:http://cs.nankai.edu.cn/info/1102/2467.htm]-
 [HomePage-http://nkcs.iops.ai/shenglinzhang/]
 
+Papers:
+
+[Trace]D. Pei, and et al. Unsupervised Detection of Microservice Trace Anomalies through Service-Level Deep Bayesian Networks". ISSRE), 2020.
+[https://github.com/NetManAIOps/TraceAnomaly]
+
 ## Security
 
 ### Resource
