@@ -4,13 +4,24 @@
 
 ### Paper
 
-[Content]K. Liu, and et al. Intelligent design of multimedia content in Alibaba. Front Inform Technol Electron Eng, 2019, 20(12):1657-1664.
+[Image]Image Generation from Layout. CVPR, 2019.
+[https://github.com/zhaobozb/layout2im]
 
-[Content]W. You, and et al. Automatic synthesis of advertising images according to a specified style. Front Inform Technol Electron Eng, 2020.
+[Image]K. Liu, and et al. Intelligent design of multimedia content in Alibaba. Front Inform Technol Electron Eng, 2019, 20(12):1657-1664.
+
+[Image]W. You, and et al. Automatic synthesis of advertising images according to a specified style. Front Inform Technol Electron Eng, 2020.
+
+[Text][Resource]https://github.com/ChenChengKuan/awesome-text-generation
+
+[Music]Magenta: Music and Art Generation with Machine Intelligence.[https://github.com/magenta/magenta]
 
 ## Audit
 
 ### Paper
+
+[Word]https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
+
+[Word]https://github.com/zacanger/profane-words
 
 [NSFW]https://github.com/yahoo/open_nsfw
 
@@ -23,15 +34,20 @@
 [Credentials][Manipulation]Constrained R-CNN： A general image manipulation detection model. ICME, 2020.
 [https://github.com/HuizhouLi/Constrained-R-CNN]
 
-[Quality Assessment][Saliency Prediction]X. Zhou, and et al. BASNet: Boundary-Aware Salient Object Detection. CVPR, 2019.
-[https://github.com/NathanUA/BASNet]
+[Quality Assessment][Image][NRVQA]https://github.com/buyizhiyou/NRVQA
 
-[Quality Assessment][Saliency Prediction]X. Qin, and et al. U^2-Net Going Deeper with Nested U-Structure for Salient Object Detection. Pattern Recognition, 2020, 106, 104404.
-[https://github.com/NathanUA/U-2-Net]
+[Quality Assessment][Image][DL]H. Talebi, and et al. NIMA: Neural Image Assessment. TIP, 2018.
+[https://github.com/truskovskiyk/nima.pytorch]
+
+[Quality Assessment][Video]https://github.com/Tencent/DVQA
+
+[Quality Assessment][Video]https://github.com/open-webrtc-toolkit/QoSTestFramework
+
+[Quality Assessment][Doc]https://github.com/edx/ease
 
 [Anomaly Detection][Review]R. Chalapathy, and et al. Deep learning for anomaly detection: A survey. arXiv:1901.03407, 2019.
 
-[Anomaly][AspectRatio]R. Sakurai, and et al. Restoring Aspect Ratio Distortion of Natural Images With Convolutional Neural Network. IEEE Transactions on Industrial Informatics, 2018, 14(8):563-571.
+[Anomaly Detection][AspectRatio]R. Sakurai, and et al. Restoring Aspect Ratio Distortion of Natural Images With Convolutional Neural Network. IEEE Transactions on Industrial Informatics, 2018, 14(8):563-571.
 [https://github.com/ronekko/aspect_ratio_restorer]
 
 ## Rec

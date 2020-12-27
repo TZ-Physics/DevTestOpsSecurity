@@ -11,6 +11,9 @@ Peking University-
 
 ### Paper
 
+[Code]CodeXGLUE: A Benchmark Dataset and Open Challenge for Code Intelligence, 2020.
+[https://github.com/microsoft/CodeXGLUE]
+
 [TestCase]A. Panichella, and et al. Automated test case generation as a many-objective optimisation problem with dynamic selection of the targets. IEEE Transactions on Software Engineering, 2018, 44(2):122-158.
 
 ## Test
