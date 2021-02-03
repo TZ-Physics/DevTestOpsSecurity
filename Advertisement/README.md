@@ -1,6 +1,6 @@
-# Content Eco
+# Advertisment
 
-## Gen
+## Synthesis
 
 ### Paper
 
@@ -50,7 +50,7 @@
 [Anomaly Detection][AspectRatio]R. Sakurai, and et al. Restoring Aspect Ratio Distortion of Natural Images With Convolutional Neural Network. IEEE Transactions on Industrial Informatics, 2018, 14(8):563-571.
 [https://github.com/ronekko/aspect_ratio_restorer]
 
-## Rec
+## Recommendation
 
 ### Conference
 

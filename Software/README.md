@@ -1,6 +1,6 @@
-# Sofware Eco
+# Sofware
 
-## Dev
+## Develop
 
 ### Group
 
