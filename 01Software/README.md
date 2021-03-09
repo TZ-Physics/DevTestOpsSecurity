@@ -25,6 +25,10 @@ Nanyang Technological University-
 [HomePage:https://www.ntu.edu.sg/home/yangliu/]-
 [Google Scholor:https://scholar.google.com/citations?user=_Pvgwd0AAAAJ&hl=en]
 
+### Conference
+
+IEEE International Conference on Artificial Intelligence Testing (AITest)
+
 ### Paper
 
 [AndroidApp]Y. Li, and et al. Humanoid A Deep Learning-based Approach to Automated Black-box Android App Testing. ASE, 2020.
